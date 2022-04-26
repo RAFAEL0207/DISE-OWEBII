@@ -146,6 +146,12 @@ header .subtitulo {
     object-fit: cover;
     border-radius: 100%;
 }
+.cards a {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 100%;
+}
 
 .fondo {
     height: 900px;
